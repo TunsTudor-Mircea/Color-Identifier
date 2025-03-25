@@ -11,7 +11,7 @@ Download and extract the [**Zip File**](https://github.com/TunsTudor-Mircea/Colo
 ## Usage
 After **installation**, use the following command in your **terminal**:
 ```bash
-python color_identifier.py -i #add your image path here#
+python color_identifier.py -i [your image path]
 ```
 
 Next, **double click** anywhere on the picture and you will be displayed the **color** you clicked on.

@@ -16,7 +16,9 @@ python color_identifier.py -i #add your image path here#
 
 Next, **double click** anywhere on the picture and you will be displayed the **color** you clicked on.
 
-If we use the *example image* of the app (*"whale.jpg"*), it should look something like this:![Example](https://raw.githubusercontent.com/TunsTudor-Mircea/Color-Identifier/refs/heads/main/example_result.png?token=GHSAT0AAAAAACYQGDJYYOLBGQO342N3OXDUZZQWCXQ)
+If we use the *example image* of the app (*"whale.jpg"*), it should look something like this:
+
+![Example](https://github.com/TunsTudor-Mircea/Color-Identifier/blob/main/example_result.png?raw=true)
 
 ## Resources
 
